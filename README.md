@@ -2,7 +2,7 @@
 
 A Streamlit-based web application that allows users to research and query news articles using AI-powered analysis. The tool fetches content from multiple URLs, creates a searchable vector database, and answers questions using Google's Gemini 2.5 Flash LLM.
 
-![News Research Tool Screenshot](image.png)
+![News Research Tool Screenshot](images/image.png)
 
 ## Features
 
